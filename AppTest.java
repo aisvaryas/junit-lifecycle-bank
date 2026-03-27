@@ -62,33 +62,3 @@ public class AppTest
 }
 
 
-
- // StudentService s= new StudentService();
-    // @Test
-    // public void marks(){
-    //     int x=s.getMarks();
-    //     assertEquals(80,x);
-        
-    // }
-    // @Test
-    // public void name(){
-    //     String n=s.getName();
-    //     assertNotNull(n);
-
-    // }
-    // @Test
-    // public void city(){
-    //     String c= s.getCity();
-    //     assertNull(c);
-    // }
-    // @Test
-    // public void passed(){
-    //     Boolean b1=s.isPassed(50);
-    //     assertTrue(b1);
-    // }
-    // @Test
-    // public void notpassed(){
-    //     Boolean b2= s.isPassed(30);
-    //     assertFalse(b2);
-
-    // }
